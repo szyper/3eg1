@@ -7,6 +7,6 @@
   <body>
     <h4>zsk<h4>
       modyfikacja pliku
-      main
+      zsk
   </body>
 </html>
